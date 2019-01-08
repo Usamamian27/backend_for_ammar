@@ -1,0 +1,5 @@
+{
+  "Port": 3000,
+  "MONGO_CONNECTION": "mongodb://usama:qwerty123@ds225902.mlab.com:25902/newspaper",
+  "TOKEN_SECRET": "secret"
+}
